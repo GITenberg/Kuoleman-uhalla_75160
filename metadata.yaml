@@ -1,0 +1,40 @@
+_repo: Kuoleman-uhalla_75160
+_version: 0.0.1
+alternative_title: Stanton wins. Finnish
+contributor:
+  translator:
+    agent_name: Kallijärvi, Kustaa
+    aliases:
+    - Kallijarvi, Kustaa
+    - Lehtonen, Kössi
+    - Lehtonen, Kossi
+    gutenberg_agent_id: '57860'
+    url: http://www.gutenberg.org/2009/agents/57860
+creator:
+  author:
+    agent_name: Ingram, Eleanor M. (Eleanor Marie)
+    alias: Ingram, Eleanor Marie
+    birthdate: 1886
+    deathdate: 1921
+    gutenberg_agent_id: '26005'
+    url: http://www.gutenberg.org/2009/agents/26005
+description: ''
+gutenberg_issued: '2025-01-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75160'
+language: fi
+pgterms:marc905: 20241128004311ingram
+pgterms:marc906: '1912'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aHämeenlinna :$bArvi A. Karisto, $c1912.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Automobile racing -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: Kuoleman uhalla
+url: http://www.gutenberg.org/ebooks/75160
