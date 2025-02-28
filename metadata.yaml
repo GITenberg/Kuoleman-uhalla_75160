@@ -10,6 +10,9 @@ contributor:
     - Lehtonen, Kossi
     gutenberg_agent_id: '57860'
     url: http://www.gutenberg.org/2009/agents/57860
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Ingram, Eleanor M. (Eleanor Marie)
@@ -19,6 +22,8 @@ creator:
     gutenberg_agent_id: '26005'
     url: http://www.gutenberg.org/2009/agents/26005
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75160#Kuoleman-uhalla
 gutenberg_issued: '2025-01-20'
 gutenberg_type: Text
 identifiers:
